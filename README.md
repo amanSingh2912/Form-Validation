@@ -1,1 +1,1 @@
-# Form-Validation
+Made a form component with validations at different level | Password has more than 1 validation. The form will not be submitted untill all the validation will be checked and a prompt "Form Submiited" appear once everything checked
